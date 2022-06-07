@@ -1,0 +1,16 @@
+com\banking\transactiondetails\domain\dto\ResponseDTO.class
+com\banking\transactiondetails\exception\StatementDetailsExceptionManager.class
+com\banking\transactiondetails\repository\StatementDetailsRepo.class
+com\banking\transactiondetails\validator\StatementValidator.class
+com\banking\transactiondetails\domain\dto\StatementDTO.class
+com\banking\transactiondetails\security\SecurityConfig.class
+com\banking\transactiondetails\controller\StatementDetailsController.class
+com\banking\transactiondetails\domain\dto\StatementDTO$StatementDTOBuilder.class
+com\banking\transactiondetails\repository\AccountRepository.class
+com\banking\transactiondetails\exception\ValidationException.class
+com\banking\transactiondetails\entity\StatementEntity.class
+com\banking\transactiondetails\entity\AccountEntity.class
+com\banking\transactiondetails\repository\StatementRepository.class
+com\banking\transactiondetails\domain\dto\ExceptionDTO.class
+com\banking\transactiondetails\domain\dto\ResponseDTO$ResponseDTOBuilder.class
+com\banking\transactiondetails\StatementDetailsApplication.class

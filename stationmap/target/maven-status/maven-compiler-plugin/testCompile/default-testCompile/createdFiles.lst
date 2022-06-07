@@ -1,0 +1,5 @@
+com\banking\transactiondetails\StatementDetailsApplicationTest.class
+com\banking\transactiondetails\exception\StatementDetailsExceptionManagerTest.class
+com\banking\transactiondetails\repository\StatementDetailsRepoTest.class
+com\banking\transactiondetails\statement\StatementValidatorTest.class
+com\banking\transactiondetails\controller\StatementDetailsControllerTest.class
